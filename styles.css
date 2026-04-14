@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+p{
+	font-size:10px;
+line-height:10px;
+}
+table{
+	border-color:lightgray;
+}
+
